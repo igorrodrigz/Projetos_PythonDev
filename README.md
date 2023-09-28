@@ -19,13 +19,13 @@ O projeto MR Banks é uma aplicação de terminal que simula as operações bás
 1. Clone este repositório:
 
     ```bash
-    https://github.com/igorrodrigz/Projetos_Portf-lio_PythonDev/blob/main/Sistema_Banc%C3%A1rio_Depositos_Saques_Extrato
+    https://github.com/igorrodrigz?tab=repositories
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd projeto-mr-banks
+    https://github.com/igorrodrigz/Projetos_Portf-lio_PythonDev/tree/main
     ```
 
 3. Execute o script Python:
