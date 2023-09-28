@@ -1,6 +1,8 @@
 # Projeto MR Banks
 
 Bem-vindo ao projeto MR Banks! Este é um sistema simples de banco em Python.
+Fomos contratados por um grande banco para desenvolver seu novo sistema. Esse banco deseja modernizar operações e para isso escolheu a linguagem Python. Para a primeira versão do sistema devemos implementar apenas operações: depósito, saque e extrato. Operação de Deposito
+Deve ser possível depositor valores positivos para a minha conta bancária. a Versão 1 do projeto trabalha apenas com 1 usuário, dessa forma não precisamos nos preocupar em identificar qual é o número da agência e da conta bancária. Todos os depósitos devem ser armazenados em uma variável e exibidos na operação de extrato.
 
 ## Descrição
 
